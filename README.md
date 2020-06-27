@@ -1,2 +1,2 @@
 # ReconS
-A recon tool that has all tools that I usally need for web recon.
+A recon interactive shell that has all the tools needed for web recon
